@@ -15,3 +15,9 @@
 <p>No other files needed to start the program other than scraped_usernames.txt which will be created automatically when the scraping process ends.</p>
 
 <p>There is .exe and .py files for the program, if you don't know how to run a python file, simply download the .exe file and run it on your windows machine and it will start perfectly fine.</p>
+
+![image](https://user-images.githubusercontent.com/58238467/148699644-14e9fdb8-cdc9-482f-b8f3-527ca7b3c929.png)
+
+
+
+LAST UPDATE 09/01/2022

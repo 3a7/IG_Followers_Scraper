@@ -16,8 +16,7 @@
 
 <p>There is .exe and .py files for the program, if you don't know how to run a python file, simply download the .exe file and run it on your windows machine and it will start perfectly fine.</p>
 
-![image](https://user-images.githubusercontent.com/58238467/148699644-14e9fdb8-cdc9-482f-b8f3-527ca7b3c929.png)
-
+![image](https://user-images.githubusercontent.com/58238467/148699682-86f5c866-4483-4ce5-8b3c-137f5166fd03.png)
 
 
 LAST UPDATE 09/01/2022
